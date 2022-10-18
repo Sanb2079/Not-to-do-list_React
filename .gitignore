@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+#backup unused folder
+src_bk
+src_bk1
+
 # testing
 /coverage
 
